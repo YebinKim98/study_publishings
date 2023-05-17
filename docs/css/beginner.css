@@ -1,0 +1,25 @@
+body{
+    background-color: #00539F;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.bordered {
+    border: 3px solid black;
+    background-color: #FF9500;
+    padding: 0px 40px 40px 45px;
+}
+
+.text1{
+    text-align: center;
+    font-size: 50px;
+    color: #00539F;
+    text-shadow: 2px 2px 2px black;
+}
+
+.images{
+    text-align: center;
+}
+.text2{
+    line-height: 2;
+}
