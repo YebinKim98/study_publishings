@@ -31,6 +31,6 @@
 .border_round_6{
     border: 0.1rem solid red;
     border-radius: 50%;
-    width: 100%;
+    /* width: 100%; */
     height: 30%;
 }
